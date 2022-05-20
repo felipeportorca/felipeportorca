@@ -1,6 +1,8 @@
-### Hi there 👋
+### Hi there!
 
-**felipeportorca/felipeportorca** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Felipe Porto and i'm a Electrical Engineer that work as a Data Engineer!
+Feel free to follow me!
+
 <div align="center">
   <a href="https://github.com/felipeportorca">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=felipeportorca&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
